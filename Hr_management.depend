@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1763973437 source:c:\users\user\desktop\cpp syntax review\oops\hr_management\main.cpp
+	"hr_system.h"
+	<iostream>
+	<limits>
+
+1763972685 c:\users\user\desktop\cpp syntax review\oops\hr_management\hr_system.h
+	"employee.h"
+	"hrmanager.h"
+	<map>
+	<ctime>
+
+1763972685 c:\users\user\desktop\cpp syntax review\oops\hr_management\hrmanager.h
+	"employee.h"
+	<algorithm>
+	<sstream>
+
+1763972685 c:\users\user\desktop\cpp syntax review\oops\hr_management\employee.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<ctime>
+	<iomanip>
+	<regex>
+
